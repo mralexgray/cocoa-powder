@@ -7,11 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6A75DBB516EFA7FA00D83257 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6A75DBB316EFA7FA00D83257 /* InfoPlist.strings */; };
-		6A75DBC316EFA8A100D83257 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A75DBB716EFA8A000D83257 /* AppDelegate.m */; };
-		6A75DBC416EFA8A100D83257 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A75DBB816EFA8A000D83257 /* Default-568h@2x.png */; };
-		6A75DBC516EFA8A100D83257 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A75DBB916EFA8A100D83257 /* Default.png */; };
-		6A75DBC616EFA8A100D83257 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A75DBBA16EFA8A100D83257 /* Default@2x.png */; };
 		6A75DBC816EFA8A100D83257 /* Empty.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6A75DBBD16EFA8A100D83257 /* Empty.xcdatamodeld */; };
 		6A75DBC916EFA8A100D83257 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6A75DBC016EFA8A100D83257 /* InfoPlist.strings */; };
 		6A75DBCA16EFA8A100D83257 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A75DBC216EFA8A100D83257 /* main.m */; };
@@ -23,8 +18,6 @@
 		6ABBE10016ED240900894344 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6ABBE0DB16ED240900894344 /* UIKit.framework */; };
 		6ABBE10116ED240900894344 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6ABBE0DD16ED240900894344 /* Foundation.framework */; };
 		6ABBE10216ED240900894344 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6ABBE0E116ED240900894344 /* CoreData.framework */; };
-		6ABBE10A16ED240900894344 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6ABBE10816ED240900894344 /* InfoPlist.strings */; };
-		6ABBE10D16ED240900894344 /* EmptyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6ABBE10C16ED240900894344 /* EmptyTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,15 +31,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		6A75DBA916EFA74200D83257 /* Empty.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Empty.xcdatamodel; sourceTree = "<group>"; };
-		6A75DBB416EFA7FA00D83257 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = src/en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		6A75DBB616EFA8A000D83257 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = src/AppDelegate.h; sourceTree = "<group>"; };
-		6A75DBB716EFA8A000D83257 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = src/AppDelegate.m; sourceTree = "<group>"; };
-		6A75DBB816EFA8A000D83257 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "src/Default-568h@2x.png"; sourceTree = "<group>"; };
-		6A75DBB916EFA8A100D83257 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = src/Default.png; sourceTree = "<group>"; };
-		6A75DBBA16EFA8A100D83257 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "src/Default@2x.png"; sourceTree = "<group>"; };
-		6A75DBBB16EFA8A100D83257 /* Empty-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "Empty-Info.plist"; path = "src/Empty-Info.plist"; sourceTree = "<group>"; };
-		6A75DBBC16EFA8A100D83257 /* Empty-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "Empty-Prefix.pch"; path = "src/Empty-Prefix.pch"; sourceTree = "<group>"; };
 		6A75DBBE16EFA8A100D83257 /* Empty.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Empty.xcdatamodel; sourceTree = "<group>"; };
 		6A75DBC116EFA8A100D83257 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = InfoPlist.strings; sourceTree = "<group>"; };
 		6A75DBC216EFA8A100D83257 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = src/main.m; sourceTree = "<group>"; };
@@ -57,10 +41,6 @@
 		6ABBE0E116ED240900894344 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		6ABBE0FD16ED240900894344 /* EmptyTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EmptyTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6ABBE0FE16ED240900894344 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		6ABBE10716ED240900894344 /* EmptyTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EmptyTests-Info.plist"; sourceTree = "<group>"; };
-		6ABBE10916ED240900894344 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		6ABBE10B16ED240900894344 /* EmptyTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EmptyTests.h; sourceTree = "<group>"; };
-		6ABBE10C16ED240900894344 /* EmptyTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EmptyTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,18 +81,9 @@
 		6ABBE0CF16ED240900894344 = {
 			isa = PBXGroup;
 			children = (
-				6A75DBB316EFA7FA00D83257 /* InfoPlist.strings */,
-				6ABBE0E316ED240900894344 /* Empty */,
 				6ABBE10516ED240900894344 /* EmptyTests */,
 				6ABBE0DA16ED240900894344 /* Frameworks */,
 				6ABBE0D916ED240900894344 /* Products */,
-				6A75DBB616EFA8A000D83257 /* AppDelegate.h */,
-				6A75DBB716EFA8A000D83257 /* AppDelegate.m */,
-				6A75DBB816EFA8A000D83257 /* Default-568h@2x.png */,
-				6A75DBB916EFA8A100D83257 /* Default.png */,
-				6A75DBBA16EFA8A100D83257 /* Default@2x.png */,
-				6A75DBBB16EFA8A100D83257 /* Empty-Info.plist */,
-				6A75DBBC16EFA8A100D83257 /* Empty-Prefix.pch */,
 				6A75DBBD16EFA8A100D83257 /* Empty.xcdatamodeld */,
 				6A75DBBF16EFA8A100D83257 /* en.lproj */,
 				6A75DBC216EFA8A100D83257 /* main.m */,
@@ -140,27 +111,9 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		6ABBE0E316ED240900894344 /* Empty */ = {
-			isa = PBXGroup;
-			children = (
-				6A75DBA816EFA74200D83257 /* Empty.xcdatamodeld */,
-				6ABBE0E416ED240900894344 /* Supporting Files */,
-			);
-			path = Empty;
-			sourceTree = "<group>";
-		};
-		6ABBE0E416ED240900894344 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
 		6ABBE10516ED240900894344 /* EmptyTests */ = {
 			isa = PBXGroup;
 			children = (
-				6ABBE10B16ED240900894344 /* EmptyTests.h */,
-				6ABBE10C16ED240900894344 /* EmptyTests.m */,
 				6ABBE10616ED240900894344 /* Supporting Files */,
 			);
 			path = EmptyTests;
@@ -169,8 +122,6 @@
 		6ABBE10616ED240900894344 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				6ABBE10716ED240900894344 /* EmptyTests-Info.plist */,
-				6ABBE10816ED240900894344 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -246,10 +197,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6A75DBB516EFA7FA00D83257 /* InfoPlist.strings in Resources */,
-				6A75DBC416EFA8A100D83257 /* Default-568h@2x.png in Resources */,
-				6A75DBC516EFA8A100D83257 /* Default.png in Resources */,
-				6A75DBC616EFA8A100D83257 /* Default@2x.png in Resources */,
 				6A75DBC916EFA8A100D83257 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -258,7 +205,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6ABBE10A16ED240900894344 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,7 +231,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6A75DBC316EFA8A100D83257 /* AppDelegate.m in Sources */,
 				6A75DBC816EFA8A100D83257 /* Empty.xcdatamodeld in Sources */,
 				6A75DBCA16EFA8A100D83257 /* main.m in Sources */,
 			);
@@ -295,7 +240,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6ABBE10D16ED240900894344 /* EmptyTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,26 +254,10 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		6A75DBB316EFA7FA00D83257 /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				6A75DBB416EFA7FA00D83257 /* en */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
 		6A75DBC016EFA8A100D83257 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
 				6A75DBC116EFA8A100D83257 /* en */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		6ABBE10816ED240900894344 /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				6ABBE10916ED240900894344 /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -400,7 +328,7 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "src/Empty-Prefix.pch";
-				INFOPLIST_FILE = "$(SRCROOT)/src/Empty-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/config/info.xml";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -411,7 +339,7 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "src/Empty-Prefix.pch";
-				INFOPLIST_FILE = "$(SRCROOT)/src/Empty-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/config/info.xml";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -484,17 +412,6 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		6A75DBA816EFA74200D83257 /* Empty.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				6A75DBA916EFA74200D83257 /* Empty.xcdatamodel */,
-			);
-			currentVersion = 6A75DBA916EFA74200D83257 /* Empty.xcdatamodel */;
-			name = Empty.xcdatamodeld;
-			path = ../src/Empty.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
 		6A75DBBD16EFA8A100D83257 /* Empty.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (

@@ -5,11 +5,12 @@ vpath %.m src
 vpath %.xcdatamodeld src
 vpath %png assets
 
-BIN = /Applications/Xcode.app/Developer/Toolchains/XcodeDefault.xctoolchain
-MOMC = $(BIN)/momc
-CC = $(BIN)/clang
-LD = $(BIN)/clang
-DSYMUTIL = $(BIN)/dsymutil
+DEV = /Applications/Xcode.app/Contents/Developer
+TOOLS = $(DEV)/Toolchains/XcodeDefault.xctoolchain/usr/bin/
+MOMC = $(DEV)/usr/bin/momc
+CC = $(TOOLS)/clang
+LD = $(TOOLSBIN)/clang
+DSYMUTIL = $(TOOLS)/dsymutil
 
 CCFLAGS = -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Empty-generated-files.hmap -I/Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Empty-own-target-headers.hmap -I/Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Empty-all-target-headers.hmap -iquote /Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Empty-project-headers.hmap -I/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/DerivedSources/i386 -I/Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/DerivedSources -F/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator -include Empty/Empty-Prefix.pch -MMD -MT dependencies -MF /Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/AppDelegate.dia
 MOMCFLAGS = -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -XD_MOMC_IOS_TARGET_VERSION=6.1 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6
