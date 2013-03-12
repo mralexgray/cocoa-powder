@@ -1,0 +1,282 @@
+TEmpty
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Info.plist Empty/Empty-Info.plist
+cProcessPCH /var/folders/vz/gzkflqc572xb016p9py1ml3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Empty-Prefix-etwjtkatsjflmcfvxanslbvhabad/Empty-Prefix.pch.pth Empty/Empty-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cDataModelVersionCompile /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Empty.momd /Users/guingu/Desktop/Empty/Empty/Empty.xcdatamodeld
+cCompileC build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/AppDelegate.o /Users/guingu/Desktop/Empty/Empty/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/main.o /Users/guingu/Desktop/Empty/Empty/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Empty normal i386
+cGenerateDSYMFile /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app.dSYM /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Empty
+cCpResource Empty/Default@2x.png build/Debug-iphonesimulator/Empty.app/Default@2x.png
+cCpResource Empty/Default.png build/Debug-iphonesimulator/Empty.app/Default.png
+cCopyStringsFile /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/en.lproj/InfoPlist.strings Empty/en.lproj/InfoPlist.strings
+cCpResource Empty/Default-568h@2x.png build/Debug-iphonesimulator/Empty.app/Default-568h@2x.png
+cTouch /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c00000000510799EB000000000030F580
+t1359452651
+s3208576
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c00000000510799EB000000000000053B
+t1359452651
+s1339
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000510799EB0000000000228FE0
+t1359452651
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000510799ED00000000003DDFA0
+t1359452653
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000510799EC00000000000015F7
+t1359452652
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000510799F20000000000000E8D
+t1359452658
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000510799F50000000000AB6230
+t1359452661
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c0000000051079A090000000000001B73
+t1359452681
+s7027
+
+N/Users/guingu/Desktop/Empty/Empty/AppDelegate.m
+c00000000513F4A320000000000001A6C
+t1363102258
+s6764
+
+N/Users/guingu/Desktop/Empty/Empty/Default-568h@2x.png
+c00000000513F4A3200000000000048A2
+t1363102258
+s18594
+
+N/Users/guingu/Desktop/Empty/Empty/Default.png
+c00000000513F4A32000000000000198C
+t1363102258
+s6540
+
+N/Users/guingu/Desktop/Empty/Empty/Default@2x.png
+c00000000513F4A320000000000003EEB
+t1363102258
+s16107
+
+N/Users/guingu/Desktop/Empty/Empty/Empty-Prefix.pch
+c00000000513F4A320000000000000152
+t1363102258
+s338
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+
+N/Users/guingu/Desktop/Empty/Empty/Empty.xcdatamodeld
+c00000000513F4A320000000000000088
+t1363102258
+s136
+
+N/Users/guingu/Desktop/Empty/Empty/en.lproj/InfoPlist.strings
+c00000000513F4A32000000000000002D
+t1363102258
+s45
+
+N/Users/guingu/Desktop/Empty/Empty/main.m
+c00000000513F4A320000000000000143
+t1363102258
+s323
+
+N/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app
+t2
+s0
+
+N/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app.dSYM
+t2
+s0
+
+N/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Default.png
+t2
+s0
+
+N/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Default@2x.png
+t2
+s0
+
+N/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Empty
+t2
+s0
+
+N/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Empty.momd
+t2
+s0
+
+N/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Info.plist
+t2
+s0
+
+N/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/PkgInfo
+t2
+s0
+
+N/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/Empty.LinkFileList
+c00000000513F693700000000000000DD
+t1363110199
+s221
+
+N/Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/vz/gzkflqc572xb016p9py1ml3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Empty-Prefix-etwjtkatsjflmcfvxanslbvhabad/Empty-Prefix.pch.pth
+t1363103357
+s4903800
+
+NEmpty/Empty-Info.plist
+c00000000513F4A3200000000000005AB
+t1363102258
+s1451
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc7136db7a0efb641^f3927fb7a0efb641^---0#1#0#--18"Check dependencies36"2D6BA567-59C5-40C4-A189-01617F980610-
+
+CCompileC build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/AppDelegate.o /Users/guingu/Desktop/Empty/Empty/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384802999.529193
+e384802999.643832
+r1
+xCompileC
+xbuild/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/AppDelegate.o
+x/Users/guingu/Desktop/Empty/Empty/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/guingu/Desktop/Empty/Empty/AppDelegate.maab687b7a0efb641^17d3a4b7a0efb641^---0#0#0#-19%DVTDocumentLocation2@63"file://localhost/Users/guingu/Desktop/Empty/Empty/AppDelegate.m0000000000000000^3572"CompileC build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/AppDelegate.o Empty/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guingu/Desktop/Empty    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:bin:/opt/boxen/rbenv/shims:/opt/boxen/rbenv/bin:/opt/boxen/rbenv/plugins/ruby-build/bin:node_modules/.bin:/opt/boxen/bin:/opt/boxen/homebrew/bin:/opt/boxen/homebrew/sbin:/Users/guingu/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin:/usr/local/nmh/bin:/usr/local/plan9/bin:/usr/local/go/bin:/usr/local/phantomjs-1.5.0/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Empty-generated-files.hmap -I/Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Empty-own-target-headers.hmap -I/Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Empty-all-target-headers.hmap -iquote /Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Empty-project-headers.hmap -I/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/DerivedSources/i386 -I/Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/DerivedSources -F/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator -include /var/folders/vz/gzkflqc572xb016p9py1ml3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Empty-Prefix-etwjtkatsjflmcfvxanslbvhabad/Empty-Prefix.pch -MMD -MT dependencies -MF /Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/AppDelegate.dia -c /Users/guingu/Desktop/Empty/Empty/AppDelegate.m -o /Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/AppDelegate.o36"0DFA9221-2082-4F97-A173-269A16E2BB42-
+
+CCompileC build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/main.o /Users/guingu/Desktop/Empty/Empty/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384802999.529231
+e384802999.572144
+r1
+xCompileC
+xbuild/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/main.o
+x/Users/guingu/Desktop/Empty/Empty/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Compile /Users/guingu/Desktop/Empty/Empty/main.mb6bb87b7a0efb641^dc9c92b7a0efb641^---0#0#0#-19%DVTDocumentLocation2@56"file://localhost/Users/guingu/Desktop/Empty/Empty/main.m0000000000000000^3530"CompileC build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/main.o Empty/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guingu/Desktop/Empty    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:bin:/opt/boxen/rbenv/shims:/opt/boxen/rbenv/bin:/opt/boxen/rbenv/plugins/ruby-build/bin:node_modules/.bin:/opt/boxen/bin:/opt/boxen/homebrew/bin:/opt/boxen/homebrew/sbin:/Users/guingu/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin:/usr/local/nmh/bin:/usr/local/plan9/bin:/usr/local/go/bin:/usr/local/phantomjs-1.5.0/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Empty-generated-files.hmap -I/Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Empty-own-target-headers.hmap -I/Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Empty-all-target-headers.hmap -iquote /Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Empty-project-headers.hmap -I/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/DerivedSources/i386 -I/Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/DerivedSources -F/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator -include /var/folders/vz/gzkflqc572xb016p9py1ml3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Empty-Prefix-etwjtkatsjflmcfvxanslbvhabad/Empty-Prefix.pch -MMD -MT dependencies -MF /Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/main.dia -c /Users/guingu/Desktop/Empty/Empty/main.m -o /Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/main.o36"9B604A5B-7230-42EE-912A-23009A3F7669-
+
+CCopyStringsFile /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/en.lproj/InfoPlist.strings Empty/en.lproj/InfoPlist.strings
+s384802999.787411
+e384802999.792686
+r1
+xCopyStringsFile
+x/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/en.lproj/InfoPlist.strings
+xEmpty/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy Empty/en.lproj/InfoPlist.stringsefc7c9b7a0efb641^ddedcab7a0efb641^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/guingu/Desktop/Empty/Empty/en.lproj/InfoPlist.strings0000000000000000^883"CopyStringsFile build/Debug-iphonesimulator/Empty.app/en.lproj/InfoPlist.strings Empty/en.lproj/InfoPlist.strings    cd /Users/guingu/Desktop/Empty    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:bin:/opt/boxen/rbenv/shims:/opt/boxen/rbenv/bin:/opt/boxen/rbenv/plugins/ruby-build/bin:node_modules/.bin:/opt/boxen/bin:/opt/boxen/homebrew/bin:/opt/boxen/homebrew/sbin:/Users/guingu/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin:/usr/local/nmh/bin:/usr/local/plan9/bin:/usr/local/go/bin:/usr/local/phantomjs-1.5.0/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/en.lproj -- Empty/en.lproj/InfoPlist.strings36"093CD4EB-232F-436B-88DA-36D2AAF56339-
+
+CCpResource Empty/Default-568h@2x.png build/Debug-iphonesimulator/Empty.app/Default-568h@2x.png
+s384802999.787956
+e384802999.794512
+r1
+xCpResource
+xEmpty/Default-568h@2x.png
+xbuild/Debug-iphonesimulator/Empty.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug-iphonesimulator/Empty.app/Default-568h@2x.png0edcc9b7a0efb641^d064cbb7a0efb641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Default-568h@2x.png000000000080d041^901"CpResource "Empty/Default-568h@2x.png" "build/Debug-iphonesimulator/Empty.app/Default-568h@2x.png"    cd /Users/guingu/Desktop/Empty    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:bin:/opt/boxen/rbenv/shims:/opt/boxen/rbenv/bin:/opt/boxen/rbenv/plugins/ruby-build/bin:node_modules/.bin:/opt/boxen/bin:/opt/boxen/homebrew/bin:/opt/boxen/homebrew/sbin:/Users/guingu/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin:/usr/local/nmh/bin:/usr/local/plan9/bin:/usr/local/go/bin:/usr/local/phantomjs-1.5.0/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/guingu/Desktop/Empty/Empty/Default-568h@2x.png" /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app36"FC50DA0F-6817-4EC6-81E1-343102475471-
+
+CCpResource Empty/Default.png build/Debug-iphonesimulator/Empty.app/Default.png
+s384802999.787402
+e384802999.791771
+r1
+xCpResource
+xEmpty/Default.png
+xbuild/Debug-iphonesimulator/Empty.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/Debug-iphonesimulator/Empty.app/Default.png5bcec9b7a0efb641^eab0cab7a0efb641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Default.png000000000080d041^871"CpResource Empty/Default.png build/Debug-iphonesimulator/Empty.app/Default.png    cd /Users/guingu/Desktop/Empty    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:bin:/opt/boxen/rbenv/shims:/opt/boxen/rbenv/bin:/opt/boxen/rbenv/plugins/ruby-build/bin:node_modules/.bin:/opt/boxen/bin:/opt/boxen/homebrew/bin:/opt/boxen/homebrew/sbin:/Users/guingu/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin:/usr/local/nmh/bin:/usr/local/plan9/bin:/usr/local/go/bin:/usr/local/phantomjs-1.5.0/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guingu/Desktop/Empty/Empty/Default.png /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app36"A94C08DC-9C75-4EA8-A45F-D02C334DE9E3-
+
+CCpResource Empty/Default@2x.png build/Debug-iphonesimulator/Empty.app/Default@2x.png
+s384802999.787395
+e384802999.790889
+r1
+xCpResource
+xEmpty/Default@2x.png
+xbuild/Debug-iphonesimulator/Empty.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/Empty.app/Default@2x.png7ec6c9b7a0efb641^9772cab7a0efb641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Default@2x.png000000000080d041^886"CpResource "Empty/Default@2x.png" "build/Debug-iphonesimulator/Empty.app/Default@2x.png"    cd /Users/guingu/Desktop/Empty    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:bin:/opt/boxen/rbenv/shims:/opt/boxen/rbenv/bin:/opt/boxen/rbenv/plugins/ruby-build/bin:node_modules/.bin:/opt/boxen/bin:/opt/boxen/homebrew/bin:/opt/boxen/homebrew/sbin:/Users/guingu/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin:/usr/local/nmh/bin:/usr/local/plan9/bin:/usr/local/go/bin:/usr/local/phantomjs-1.5.0/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/guingu/Desktop/Empty/Empty/Default@2x.png" /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app36"60AFB89D-E0C7-4289-8D5C-8F59D62B25E3-
+
+CDataModelVersionCompile /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Empty.momd /Users/guingu/Desktop/Empty/Empty/Empty.xcdatamodeld
+s384802999.522812
+e384802999.766147
+r1
+xDataModelVersionCompile
+x/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Empty.momd
+x/Users/guingu/Desktop/Empty/Empty/Empty.xcdatamodeld
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"DataModelVersionCompile build/Debug-iphonesimulator/Empty.app/Empty.momd Empty/Empty.xcdatamodeld9d4a86b7a0efb641^c823c4b7a0efb641^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/guingu/Desktop/Empty/Empty/Empty.xcdatamodeld/0000000000000000^1152"DataModelVersionCompile build/Debug-iphonesimulator/Empty.app/Empty.momd Empty/Empty.xcdatamodeld    cd /Users/guingu/Desktop/Empty    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:bin:/opt/boxen/rbenv/shims:/opt/boxen/rbenv/bin:/opt/boxen/rbenv/plugins/ruby-build/bin:node_modules/.bin:/opt/boxen/bin:/opt/boxen/homebrew/bin:/opt/boxen/homebrew/sbin:/Users/guingu/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin:/usr/local/nmh/bin:/usr/local/plan9/bin:/usr/local/go/bin:/usr/local/phantomjs-1.5.0/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -XD_MOMC_IOS_TARGET_VERSION=6.1 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 /Users/guingu/Desktop/Empty/Empty/Empty.xcdatamodeld /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Empty.momd36"BC05F0C4-5EB4-4D28-9BF6-B05F41BCCF3D-
+
+CGenerateDSYMFile /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app.dSYM /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Empty
+s384802999.738324
+e384802999.779330
+r1
+xGenerateDSYMFile
+x/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app.dSYM
+x/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Empty
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Generate /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app.dSYM2c2bbdb7a0efb641^7381c7b7a0efb641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app.dSYM000000000080d041^918"GenerateDSYMFile build/Debug-iphonesimulator/Empty.app.dSYM build/Debug-iphonesimulator/Empty.app/Empty    cd /Users/guingu/Desktop/Empty    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:bin:/opt/boxen/rbenv/shims:/opt/boxen/rbenv/bin:/opt/boxen/rbenv/plugins/ruby-build/bin:node_modules/.bin:/opt/boxen/bin:/opt/boxen/homebrew/bin:/opt/boxen/homebrew/sbin:/Users/guingu/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin:/usr/local/nmh/bin:/usr/local/plan9/bin:/usr/local/go/bin:/usr/local/phantomjs-1.5.0/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Empty -o /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app.dSYM36"E2CFC252-92D1-45DD-BCD9-E1AA1B5A8663-
+
+CLd /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Empty normal i386
+s384802999.650660
+e384802999.731431
+r1
+xLd
+x/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Empty
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Link /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Empty42b0a6b7a0efb641^213fbbb7a0efb641^---0#0#0#--1436"Ld build/Debug-iphonesimulator/Empty.app/Empty normal i386    cd /Users/guingu/Desktop/Empty    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:bin:/opt/boxen/rbenv/shims:/opt/boxen/rbenv/bin:/opt/boxen/rbenv/plugins/ruby-build/bin:node_modules/.bin:/opt/boxen/bin:/opt/boxen/homebrew/bin:/opt/boxen/homebrew/sbin:/Users/guingu/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin:/usr/local/nmh/bin:/usr/local/plan9/bin:/usr/local/go/bin:/usr/local/phantomjs-1.5.0/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator -F/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator -filelist /Users/guingu/Desktop/Empty/build/Empty.build/Debug-iphonesimulator/Empty.build/Objects-normal/i386/Empty.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -framework CoreData -o /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Empty36"3C0058D6-171F-445B-AC38-99CF6A450D7B-
+
+CProcessInfoPlistFile /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Info.plist Empty/Empty-Info.plist
+s384802999.507916
+e384802999.514664
+r1
+xProcessInfoPlistFile
+x/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Info.plist
+xEmpty/Empty-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process Empty/Empty-Info.plista37782b7a0efb641^7fc083b7a0efb641^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/guingu/Desktop/Empty/Empty/Empty-Info.plist0000000000000000^941"ProcessInfoPlistFile build/Debug-iphonesimulator/Empty.app/Info.plist Empty/Empty-Info.plist    cd /Users/guingu/Desktop/Empty    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:bin:/opt/boxen/rbenv/shims:/opt/boxen/rbenv/bin:/opt/boxen/rbenv/plugins/ruby-build/bin:node_modules/.bin:/opt/boxen/bin:/opt/boxen/homebrew/bin:/opt/boxen/homebrew/sbin:/Users/guingu/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin:/usr/local/nmh/bin:/usr/local/plan9/bin:/usr/local/go/bin:/usr/local/phantomjs-1.5.0/bin"    builtin-infoPlistUtility Empty/Empty-Info.plist -genpkginfo /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app/Info.plist36"C63BB89A-EC0E-48F6-AF7B-F3928CE7B808-
+
+CProcessPCH /var/folders/vz/gzkflqc572xb016p9py1ml3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Empty-Prefix-etwjtkatsjflmcfvxanslbvhabad/Empty-Prefix.pch.pth Empty/Empty-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CTouch /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app
+s384802999.802624
+e384802999.809136
+r1
+xTouch
+x/Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Touch /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app7ba0cdb7a0efb641^0323cfb7a0efb641^---0#0#0#--700"Touch build/Debug-iphonesimulator/Empty.app    cd /Users/guingu/Desktop/Empty    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:bin:/opt/boxen/rbenv/shims:/opt/boxen/rbenv/bin:/opt/boxen/rbenv/plugins/ruby-build/bin:node_modules/.bin:/opt/boxen/bin:/opt/boxen/homebrew/bin:/opt/boxen/homebrew/sbin:/Users/guingu/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/go/bin:/usr/local/nmh/bin:/usr/local/plan9/bin:/usr/local/go/bin:/usr/local/phantomjs-1.5.0/bin"    /usr/bin/touch -c /Users/guingu/Desktop/Empty/build/Debug-iphonesimulator/Empty.app36"8B779588-2F7A-4003-A987-CF7703D293FF-
+
