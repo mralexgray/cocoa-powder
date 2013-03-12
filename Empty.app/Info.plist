@@ -7,7 +7,7 @@
 		<string>armv7</string>
 	</array>
 	<key>CFBundleIdentifier</key>
-	<string>$(BUNDLEID)</string>
+	<string>moya.Empty</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
@@ -18,11 +18,11 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>$(BUNDLEVERSION)</string>
+	<string>1.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>$(BUNDLESHORTVERSIONSTRING)</string>
+	<string>1.0</string>
 	<key>CFBundleExecutable</key>
-	<string>$(BUNDLEEXECUTABLE)</string>
+	<string>Empty</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UISupportedInterfaceOrientations</key>
@@ -32,7 +32,7 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>CFBundleDisplayName</key>
-	<string>$(BUNDLEDISPLAYNAME)</string>
+	<string>Empty</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneSimulator</string>
@@ -42,7 +42,7 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>DTPlatformName</key>
-	<string>$(PLATFORMNAME)</string>
+	<string>iphonesimulator</string>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
@@ -51,8 +51,8 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>DTSDKName</key>
-	<string>$(SDKNAME)</string>
+	<string>iphonesimulator6.1</string>
 	<key>CFBundleName</key>
-	<string>$(BUNDLENAME)</string>
+	<string>Empty</string>
 </dict>
 </plist>

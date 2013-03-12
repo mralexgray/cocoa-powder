@@ -1,12 +1,4 @@
-//
-//  AppDelegate.m
-//  Empty
-//
-//  Created by Quico Moya on 3/10/13.
-//  Copyright (c) 2013 Quico Moya. All rights reserved.
-//
-
-#import "AppDelegate.h"
+#import "delegate.h"
 
 @implementation AppDelegate
 

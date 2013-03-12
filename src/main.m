@@ -1,14 +1,6 @@
-//
-//  main.m
-//  Empty
-//
-//  Created by Quico Moya on 3/10/13.
-//  Copyright (c) 2013 Quico Moya. All rights reserved.
-//
-
 #import <UIKit/UIKit.h>
 
-#import "AppDelegate.h"
+#import "app/delegate.h"
 
 int main(int argc, char *argv[])
 {
